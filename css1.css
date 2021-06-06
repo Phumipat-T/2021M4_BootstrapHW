@@ -54,3 +54,9 @@ body .container {
 .heart-color {
     color: red;
 }
+
+@media screen and (max-width:991px){
+    #sidemenu{
+        border-style:none;
+    }
+}
